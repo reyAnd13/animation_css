@@ -65,3 +65,8 @@ h1 span:nth-child(9) {
     text-shadow: none;
   }
 }
+@media screen and (max-width: 479px) {
+  h1 {
+    font-size: 100%;
+  }
+}
